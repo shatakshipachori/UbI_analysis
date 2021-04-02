@@ -23,7 +23,11 @@ This dataset contains the current and historic Data Quality Score results for th
 
 #### Best AutoML model
 
-!Best_run_details](Best_run_details.png)
+![Best_run_details](Best_run_details.png)
+
+#### Best AutoML model
+
+![Best_AutoML_model](Best_AutoML_model.png)
 
 ## Youtube Video Link 
 [Basic regression analysis using python in Azure](https://youtu.be/0KR0gucxt0A)
