@@ -16,4 +16,4 @@ This dataset contains the current and historic Data Quality Score results for th
 **Target column: score**- Summary of accessibility, completeness, freshness, metadata, and usability scores into a single score. Weights determined via rank weighting.
 
 ## Youtube Video Link 
-[Basic regression analysis using python in Azure]
+[Basic regression analysis using python in Azure](https://youtu.be/0KR0gucxt0A)
