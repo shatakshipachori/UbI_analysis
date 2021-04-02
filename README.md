@@ -52,3 +52,6 @@ This dataset contains the current and historic Data Quality Score results for th
 
 ## License
 
+MIT License
+
+Copyright (c) 2021 Shatakshi Pachori
