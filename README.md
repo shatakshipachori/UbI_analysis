@@ -48,3 +48,7 @@ This dataset contains the current and historic Data Quality Score results for th
 
 ## Youtube Video Link 
 [Basic regression analysis using python in Azure](https://youtu.be/0KR0gucxt0A)
+
+
+## License
+
