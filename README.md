@@ -17,10 +17,11 @@ This dataset contains the current and historic Data Quality Score results for th
 
 ## Snapshots
 
-#### 
+#### AutoML Experiment
 
 ![AutoML Experiment run](Experiment_run.png)
 
+#### Best AutoML model
 
 
 ## Youtube Video Link 
