@@ -31,6 +31,10 @@ This dataset contains the current and historic Data Quality Score results for th
 
 ![](Best_run_metrics_1.png)
 
+#### Model Deployment
+
+![Model Deployment](Model_deployment.png)
+
 #### Model Performance
 
 ![Model Performance](Model_Performance.png)
